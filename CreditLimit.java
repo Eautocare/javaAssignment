@@ -26,35 +26,6 @@ public class CreditLimit
 		if(newbalance > credit) {System.out.print(" Credit limit exceededs");}
 
 
-
-
-
-		
-
-
-
-
-
-		
-
-
-
-
-		
-
-		
-		
-
-
-
-
-
-
-
-
-
 	}
-
-
 
 }
